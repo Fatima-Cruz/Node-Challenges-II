@@ -1,0 +1,54 @@
+{
+    "workers":[
+        {
+            "name":"Fatima C",
+            "id":1,
+            "department":"Student"
+        },
+        {
+            "name":"Treena C",
+            "id":2,
+            "department":"Professional Development"
+        },
+        {
+            "name":"Latori M",
+            "id":3,
+            "department":"Python Enthusiast"
+        },
+        {
+            "name":"Reggie J Jr",
+            "id":4,
+            "department":"The Bag 💰"
+        },
+        {
+            "name":"Dyl T",
+            "id":5,
+            "department":"Tech Wiz"
+        },
+        {
+            "name":"Gisselle M",
+            "id":6,
+            "department":"Boss-lady Program Manager"
+        },
+        {
+            "name":"Ric E",
+            "id":7,
+            "department":"CEO BOSS"
+        },
+        {
+            "name":"Kevin H",
+            "id":8,
+            "department":"Tech Mentor"
+        },
+        {
+            "name":"Kelly O",
+            "id":9,
+            "department":"Life Mentor"
+        },
+        {
+            "name":"Lucy Y",
+            "id":10,
+            "department":"A GOAT"
+        }
+    ]
+}
